@@ -1,0 +1,19 @@
+.icons{
+    position: absolute;
+    left: calc(50% - 1.5rem);
+    top: -1.5rem;
+    width: 3rem;
+    z-index: 10;
+    color: #1d3557;
+}
+
+.boundary{
+    z-index: 1;
+    position: relative;
+    left: calc(50% - 4rem);
+    top: -4rem;
+    width: 8rem;
+    color: #1d3557;
+    fill: white;
+    stroke-width: 0.03rem;
+}

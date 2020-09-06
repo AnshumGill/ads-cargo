@@ -1,0 +1,21 @@
+.icons{
+    position: absolute;
+    left:10%;
+    top:calc(50% - 1.5rem);
+    width:3rem;
+    color: #1d3557;
+}
+
+.boundary{
+    position: absolute;
+    left:calc(10% - 1rem);
+    top:calc(50% - 2.5rem);
+    width: 5rem;
+    color:#1d3557;
+    stroke-width: 0.05rem;
+}
+
+.btn-custom{
+    background-color: #1d3557;
+    color: white;
+}
